@@ -332,13 +332,13 @@ h1 {
 }
 
 .templatemo_contact {
-    margin: 30px;
+    margin: 10px;
 }
 
 .templatemo_contactform input, textarea {
     width: 90%;
     background: #282828;
-    border: 1px solid #393939;
+    border: 1px solid #ffffff;
     padding: 7px 10px;
     margin: 0px 0px 10px 0px;
 }
@@ -348,12 +348,9 @@ h1 {
 }
 
 .templatemo_sendbtn {
-    background: #91bf24;
-    padding: 5px 15px;
-    color: #54720b;
-    float: left;
-    font-size: 14px;
-    font-weight: bold;
+    width: 100%; 
+    padding: 15px;
+    font-size: 18px;
 }
 
 .templatemo_contactmap {
